@@ -127,7 +127,7 @@ const DEV_DATA: Dev[] = [
         avatar: "https://avatars.githubusercontent.com/u/193929605?v=4",
         github: "https://github.com/otis-tran",
         linkedin: "https://www.linkedin.com/in/otis-tran/",
-        bio: "Passionate about Web3 & Blockchain technology",
+        bio: "Mobile developer | Passionate about Web3 & Blockchain technology",
         slushWallet: "0xaebd8a3bc80ea711937bf1831cd5a97b6c166d591594cf87d6338ecd3f1a60fb",
     },
 ];

@@ -1,24 +1,23 @@
 type Dev = {
-    name: string;
-    username: string;
-    avatar?: string;
-    github: string;
-    linkedin?: string;
-    website?: string;
-    bio?: string;
-    slushWallet?: string;
+  name: string;
+  username: string;
+  avatar?: string;
+  github: string;
+  linkedin?: string;
+  website?: string;
+  bio?: string;
+  slushWallet?: string;
 };
 
 const DEV_DATA: Dev[] = [
-    {
-        name: "Hulk",
-        username: "hulk",
-        avatar: "/avatar/hulk-avatar.png",
-        github: "https://github.com/Huc06",
-        linkedin: "https://www.linkedin.com/in/hulk-phuc-ha-84a685301/",
-        bio: "This product offers a unique solution to a common problem.",
-        slushWallet: "0xaea6f58e4261b34032934c6c20e0b5b4fd94bac2e86734e3f2d3d5856b443108",
-    },
+  {
+    name: "Tuann",
+    username: "tuann",
+    avatar: "/avatar/tuann-avatar.jpg",
+    github: "https://github.com/tuanhqv123",
+    linkedin: "https://www.linkedin.com/in/tuan-tran149/",
+    bio: "On my way to learn web3",
+  },
 ];
 
 export default DEV_DATA;

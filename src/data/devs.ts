@@ -130,6 +130,16 @@ const DEV_DATA: Dev[] = [
     slushWallet:
       "0x0794b3451c2fe7c83f7c4a105d412d23b9e79935ec8583af60e48f40566c0fdc",
   },
+  {
+    name: "Dinh Hoang Phuc",
+    username: "dinhhoangphuc",
+    avatar: "../../public/avatar/dinhhoangphuc-avatar.jpg",
+    github: "https://github.com/DinhHoangPhuc",
+    linkedin: "https://www.linkedin.com/in/dinh-hoang-phuc-104912226/",
+    bio: "A highly motivated Computer Science student with a solid understanding of programming principles and a passion for web3",
+    slushWallet:
+      "0x5969311fc9991addca207f69e088eb421d646c013d0d31d9c39ae8fbaac31915",
+  },
 ];
 
 export default DEV_DATA;

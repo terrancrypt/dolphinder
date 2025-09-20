@@ -16,6 +16,7 @@ const DEV_DATA: Dev[] = [
     avatar: "/avatar/tuann-avatar.jpg",
     github: "https://github.com/tuanhqv123",
     linkedin: "https://www.linkedin.com/in/tuan-tran149/",
+    website: "https://portfolio.tuanhocgioi.cyou/",
     bio: "On my way to learn web3",
   },
 ];

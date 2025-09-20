@@ -37,6 +37,15 @@ const DEV_DATA: Dev[] = [
         bio: "I am a third-year university student passionate about Web3 and blockchain.",
         slushWallet: "0x3161f4083d09983b4fc68ea208bd2ea3616f1bf91e8fd9c5303552d5aa64af19",
     },
+    {
+        name: "Otis Tran",
+        username: "otis-tran",
+        avatar: "https://avatars.githubusercontent.com/u/193929605?v=4",
+        github: "https://github.com/otis-tran",
+        linkedin: "https://www.linkedin.com/in/otis-tran/",
+        bio: "Passionate about Web3 & Blockchain technology",
+        slushWallet: "0xaebd8a3bc80ea711937bf1831cd5a97b6c166d591594cf87d6338ecd3f1a60fb",
+    },
 ];
 
 export default DEV_DATA;

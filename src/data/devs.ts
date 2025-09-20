@@ -121,6 +121,16 @@ const DEV_DATA: Dev[] = [
         slushWallet:
             "0x0794b3451c2fe7c83f7c4a105d412d23b9e79935ec8583af60e48f40566c0fdc",
     },
+    {
+        name: "Quoc Bao",
+        username: "helloquocbao",
+        avatar: "https://avatars.githubusercontent.com/u/62052027?v=4",
+        github: "https://github.com/helloquocbao",
+        linkedin: "https://www.linkedin.com/in/helloquocbao/",
+        bio: "Hello, QuocBao – passionate about blockchain and decentralized applications.",
+        slushWallet:
+            "0x120cb66146213b886d2a909a7b164594796a84cbe5d6e4b9f3fa8a9ccf2b640f",
+    },
 ];
 
 export default DEV_DATA;

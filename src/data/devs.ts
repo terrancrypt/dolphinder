@@ -71,8 +71,8 @@ const DEV_DATA: Dev[] = [
       "0xaea6f58e4261b34032934c6c20e0b5b4fd94bac2e86734e3f2d3d5856b443108",
   },
   {
-    name: "Hulk",
-    username: "hulk",
+    name: "Kiet",
+    username: "ahKiet",
     avatar: "/avatar/ahkiet-avatar.jpg",
     github: "https://github.com/ahkiet22",
     linkedin: "https://www.linkedin.com/in/ahkiet/",

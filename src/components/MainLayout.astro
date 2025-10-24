@@ -17,7 +17,7 @@ const { title = "Astro" } = Astro.props;
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
   </head>
-  <body class="dark">
+  <body>
     <App client:only="react">
       <slot />
     </App>
